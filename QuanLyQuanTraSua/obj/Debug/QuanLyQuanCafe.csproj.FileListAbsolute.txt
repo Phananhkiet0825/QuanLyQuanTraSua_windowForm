@@ -1,0 +1,13 @@
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Phan Anh Kiet\Downloads\Tổng hợp project C#\cafe\QuanLyQuanCafeHowKTeam\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
